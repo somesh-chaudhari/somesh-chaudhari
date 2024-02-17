@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somesh Chaudhari</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://store.sirclo.com/blog/wp-content/uploads/2022/07/Banner-Blog-06-14-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="somesh-chaudhari" /> </p>
